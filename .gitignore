@@ -1,31 +1,8 @@
-# Virtual environments
-venv/
-.venv/
-env/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Environment variables
-.env
-
-# Build files
+node_modules/
 build/
 dist/
-*.egg-info/
-
-# Logs
-*.log
-
-# VS Code
-.vscode/
-
-# JetBrains
-.idea/
-
-# Windows
-Thumbs.db
-
-# macOS
+coverage/
 .DS_Store
+*.log
+.env*
+!.env.example
