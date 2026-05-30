@@ -1,0 +1,6 @@
+{
+  "name": "Fluxora",
+  "description": "Technology Crafted for All, Not Machines.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
