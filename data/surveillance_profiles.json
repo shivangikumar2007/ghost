@@ -1,0 +1,26 @@
+[
+  {
+    "profile_id": "USR-001",
+    "fingerprint_id": "FP-92831",
+    "face_tag": "person_alpha",
+    "platform": "AdTracker Nexus",
+    "consent": false,
+    "risk_level": "HIGH"
+  },
+  {
+    "profile_id": "USR-002",
+    "fingerprint_id": "FP-77777",
+    "face_tag": "person_beta",
+    "platform": "ForumClone",
+    "consent": false,
+    "risk_level": "CRITICAL"
+  },
+  {
+    "profile_id": "USR-003",
+    "fingerprint_id": "FP-92831",
+    "face_tag": "person_alpha",
+    "platform": "Behavior Analytics Grid",
+    "consent": false,
+    "risk_level": "HIGH"
+  }
+]
