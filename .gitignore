@@ -21,7 +21,7 @@ dist/
 # VS Code
 .vscode/
 
-# JetBrains IDEs
+# JetBrains
 .idea/
 
 # Windows
